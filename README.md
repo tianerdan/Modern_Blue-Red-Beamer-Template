@@ -1,4 +1,4 @@
-# College-Beamer-Template
+# Modern_Blue-Red-Beamer-Template
 
 A modern-style beamer template with 65472 harmonic ratios, which is a limited edition for Matisu University (Technische Universität Martißu).
 
