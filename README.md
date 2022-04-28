@@ -5,7 +5,7 @@ A modern-style beamer template with 65472 harmonic ratios, which is a limited ed
 This color-style has nothing with Russian. **I support Ukraine 🇺🇦 and strongly condemned Russia's invasion.** Feel free to change the color-style to Blue and Yellow.
 这个配色仅仅是为了鲜明的色彩，与俄罗斯无关。 **我们支持乌克兰人民，并强烈谴责俄罗斯的侵略行为。** 如果您希望，可以自由地把配色风格改为蓝色与黄色。
 
-![Fictive student protests in fictive Matisu University. 虚构的马蹄酥大学虚构的学生抗议事件。](/fig1.jpeg)
+![Fictive student protests in fictive Matisu University. 虚构的马蹄酥大学虚构的学生抗议事件。](fig1.jpg)
 
 Seeking for Freedom of Speech, fictional protesting students changed the screen at the press conference of the university's comment section to slogan, whose color is blue and red.
 
